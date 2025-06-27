@@ -1,0 +1,9 @@
+/.idea
+
+/lung_nodule_detect/Preprocess
+
+/lung_nodule_detect/src/pt
+
+/lung_nodule_detect/src/runs
+
+/lung_nodule_detect/src/yolo11n.pt
